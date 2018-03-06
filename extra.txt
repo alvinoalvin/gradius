@@ -1,0 +1,13 @@
+---------------------------------extra---------------------------------
+shooting (pickup)
+score(for shooting)
+lives pickup
+make a better game over screen
+make a better win screen
+stars or add image for background
+make a start menu
+add to menu at top
+music
+bosses
+minions
+shields?
